@@ -1,0 +1,5 @@
+autopep8==1.6.0
+peewee==3.14.10
+psycopg2-binary==2.9.3
+pycodestyle==2.8.0
+toml==0.10.2
